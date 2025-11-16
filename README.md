@@ -1,54 +1,57 @@
 # Crud-Senai_Backend
 
-Crud de finalização do curso de Back-end no Senai - Santo Amaro.
+Final project for the Back-End Development Course at Senai - Santo Amaro.
 
 ---
 
-## Sobre o Projeto
+## 📝 About The Project
 
-Este repositório apresenta um projeto CRUD (Create, Read, Update, Delete) completo, desenvolvido como parte da finalização do curso de Back-end pelo Senai - Santo Amaro. O objetivo foi colocar em prática os conhecimentos adquiridos sobre desenvolvimento backend, manipulação de banco de dados e integração básica com frontend.
-
----
-
-## Competências Demonstradas
-
-- **CRUD (Create, Read, Update, Delete):**  
-  O projeto implementa todas as operações essenciais de CRUD, permitindo criar, visualizar, editar e excluir registros de forma eficiente e segura.
-
-- **Backend em PHP:**  
-  O backend foi desenvolvido principalmente em PHP, utilizando boas práticas de organização, validação de dados e resposta a requisições do frontend.
-
-- **Banco de Dados Relacional:**  
-  Estruturei todo o sistema de persistência com banco de dados relacionais, mostrando noções de modelagem, criação de tabelas, consultas e gerenciamento de dados.
-
-- **Conhecimentos em Frontend:**  
-  Utilize HTML e CSS para criar formulários de interação e apresentar os dados para o usuário, demonstrando noções de integração entre o frontend e o backend.
+This repository presents a complete CRUD (Create, Read, Update, Delete) project, developed as the final assignment for the Back-End Development Course at Senai - Santo Amaro. The objective was to put into practice the knowledge acquired in backend development, database manipulation, and basic frontend integration.
 
 ---
 
-## Tecnologias Utilizadas
+## 🎯 Skills Demonstrated
 
-- **PHP** (principal linguagem backend)
-- **HTML, CSS** (para exibição e interação no frontend)
-- **Banco de Dados** (ex: MySQL, pode ser adaptado)
+### **CRUD Operations (Create, Read, Update, Delete)**
+The project implements all essential CRUD operations, enabling efficient and secure creation, viewing, editing, and deletion of records.
 
----
+### **Backend Development with PHP**
+The backend was developed primarily in PHP, utilizing best practices for organization, data validation, and handling frontend requests.
 
-## Como Executar
+### **Relational Database Management**
+Structured the entire persistence system with a relational database, demonstrating concepts of modeling, table creation, queries, and data management.
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Mateus-F-Moura/Crud-Senai_Backend.git
-   ```
-2. Configure o ambiente de acordo com as instruções do projeto.
-3. Acesse pelo navegador a partir do servidor local.
+### **Frontend Integration**
+Utilized HTML and CSS to create interaction forms and present data to the user, demonstrating concepts of integration between frontend and backend.
 
 ---
 
-## Outros Projetos Relacionados
+## 🛠️ Technologies Used
 
-Confira também meu projeto [Banco-Fintech](https://github.com/Mateus-F-Moura/Banco-Fintech), onde desenvolvi um backend mais robusto para um sistema bancário, ampliando meus conhecimentos em backend, banco de dados e integração.
+- **PHP** (primary backend language)
+- **HTML, CSS** (for display and frontend interaction)
+- **Database** (e.g., MySQL, adaptable)
 
 ---
 
-**Recrutadores: Este projeto é uma demonstração prática das minhas noções de CRUD, backend, banco de dados e integração com frontend. Estou aberto a oportunidades e desafios na área!**
+## 🚀 How to Run
+
+1. **Clone this repository:**
+
+```bash
+git clone https://github.com/Mateus-F-Moura/Crud-Senai_Backend.git
+```
+
+2. **Configure the environment according to the project instructions.**
+
+3. **Access through the browser from the local server.**
+
+---
+
+## 🔗 Related Projects
+
+Also check out my [Banco-Fintech](https://github.com/Mateus-F-Moura/Banco-Fintech) project, where I developed a more robust backend for a banking system, expanding my knowledge in backend, database, and integration.
+
+---
+
+**Recruiters:** This project is a practical demonstration of my CRUD, backend, database, and frontend integration skills. I am open to opportunities and challenges in the field!
