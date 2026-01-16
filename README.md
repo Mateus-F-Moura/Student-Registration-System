@@ -1,5 +1,4 @@
-# Easy-registration
-
+# 🎓 Student Registration System
 Final project for the Back-End Development Course at Senai - Santo Amaro.
 
 ---
